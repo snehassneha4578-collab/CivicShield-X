@@ -53,3 +53,6 @@ upgrade_*.py
 **/*_temp.py
 **/dashboard_recovered_backup.py
 **/dashboard_temp.py
+
+# README development backup
+README_before_color_upgrade.md
