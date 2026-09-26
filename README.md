@@ -89,6 +89,7 @@ Crisis Cascade Simulator
                 v
         Replay + Memory
 
+```
 
 ## 🏙️ Synthetic City Digital Twin
 
