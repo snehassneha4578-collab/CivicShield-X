@@ -1,0 +1,55 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit / runtime
+.streamlit/secrets.toml
+*.log
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary development scripts
+_integrate_*.py
+_upgrade_*.py
+add_*.py
+clean_*.py
+fix_*.py
+patch_*.py
+retry_*.py
+test_app.py
+upgrade_*.py
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Local development backups
+**/*_before_*.py
+**/*_backup*.py
+**/*_temp.py
+**/dashboard_recovered_backup.py
+**/dashboard_temp.py

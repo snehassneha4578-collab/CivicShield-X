@@ -1,0 +1,14 @@
+[
+  {
+    "record_type": "experiment",
+    "id": "EXP-001",
+    "timestamp": "2026-09-20T04:14:52",
+    "name": "Verification Experiment",
+    "rainfall": 94.0,
+    "river_level": 81.0,
+    "response_delay": 5.0,
+    "bridge_available": true,
+    "risk_score": 68.8,
+    "risk_level": "HIGH"
+  }
+]
