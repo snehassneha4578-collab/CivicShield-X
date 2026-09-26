@@ -6,7 +6,7 @@
 
 **Sense → Understand → Predict → Decide → Simulate → Verify → Replay → Remember**
 
-<img src="assets/images/civicshield_hero.jpeg" alt="CivicShield-X Hero" width="900">
+<img src="https://raw.githubusercontent.com/snehassneha4578-collab/CivicShield-X/master/assets/images/civicshield_hero.jpeg" alt="CivicShield-X Hero" width="900">
 
 <br>
 
